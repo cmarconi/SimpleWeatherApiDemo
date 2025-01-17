@@ -1,0 +1,32 @@
+[
+  {
+    "ContainingType": "SimpleWeatherApiDemo.Controllers.KennettWeatherForecastController",
+    "Method": "GetKennetWeather",
+    "RelativePath": "KennettWeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "SimpleWeatherApiDemo.ExternalServices.WeatherResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 500
+      }
+    ],
+    "EndpointName": "GetKennettWeatherForecast"
+  }
+]

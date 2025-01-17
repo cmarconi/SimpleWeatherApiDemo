@@ -1,0 +1,6 @@
+@@simple_weather_api_demo_HostAddress = http://localhost:5073
+
+GET {{@simple_weather_api_demo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
