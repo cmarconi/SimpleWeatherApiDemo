@@ -1,5 +1,6 @@
 using Microsoft.Extensions.Options;
 using SimpleWeatherApiDemo.ExternalServices;
+using SimpleWeatherApiDemo.Weather;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -17,6 +18,8 @@ builder.Services.AddHttpClient<WeatherDotGovClient>((services, client) =>
     client.DefaultRequestHeaders.Add("Accept", "application/ld+json");
     client.DefaultRequestHeaders.Add("User-Agent", options.Value.UserAgent);
 });
+
+builder.Services.AddSingleton(typeof(WeatherCache));
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();

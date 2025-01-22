@@ -1,12 +1,11 @@
 {
   "Version": 1,
-  "Hash": "ijz3I48ugvhjZm4mFxJYCOsLUCLHIxof3xOnGzKz5AI=",
+  "Hash": "bhw0noNQHLuOict2KkgZD31zxkxUV3v1lUf1WbOBgVM=",
   "Source": "SimpleWeatherApiDemo",
   "BasePath": "_content/SimpleWeatherApiDemo",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }

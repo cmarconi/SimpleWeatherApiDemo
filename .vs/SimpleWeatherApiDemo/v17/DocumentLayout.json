@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CodeRepo\\PersonalRepo\\SimpleWeatherApiDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{691AFA57-CBAC-4EDF-AD4F-D1B35D75DE37}|SimpleWeatherApiDemo\\SimpleWeatherApiDemo.csproj|c:\\coderepo\\personalrepo\\simpleweatherapidemo\\simpleweatherapidemo\\weather\\coordinateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691AFA57-CBAC-4EDF-AD4F-D1B35D75DE37}|SimpleWeatherApiDemo\\SimpleWeatherApiDemo.csproj|solutionrelative:simpleweatherapidemo\\weather\\coordinateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691AFA57-CBAC-4EDF-AD4F-D1B35D75DE37}|SimpleWeatherApiDemo\\SimpleWeatherApiDemo.csproj|c:\\coderepo\\personalrepo\\simpleweatherapidemo\\simpleweatherapidemo\\weather\\weathercache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691AFA57-CBAC-4EDF-AD4F-D1B35D75DE37}|SimpleWeatherApiDemo\\SimpleWeatherApiDemo.csproj|solutionrelative:simpleweatherapidemo\\weather\\weathercache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691AFA57-CBAC-4EDF-AD4F-D1B35D75DE37}|SimpleWeatherApiDemo\\SimpleWeatherApiDemo.csproj|c:\\coderepo\\personalrepo\\simpleweatherapidemo\\simpleweatherapidemo\\externalservices\\weatherdotgovclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691AFA57-CBAC-4EDF-AD4F-D1B35D75DE37}|SimpleWeatherApiDemo\\SimpleWeatherApiDemo.csproj|solutionrelative:simpleweatherapidemo\\externalservices\\weatherdotgovclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691AFA57-CBAC-4EDF-AD4F-D1B35D75DE37}|SimpleWeatherApiDemo\\SimpleWeatherApiDemo.csproj|c:\\coderepo\\personalrepo\\simpleweatherapidemo\\simpleweatherapidemo\\controllers\\kennettweatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691AFA57-CBAC-4EDF-AD4F-D1B35D75DE37}|SimpleWeatherApiDemo\\SimpleWeatherApiDemo.csproj|solutionrelative:simpleweatherapidemo\\controllers\\kennettweatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691AFA57-CBAC-4EDF-AD4F-D1B35D75DE37}|SimpleWeatherApiDemo\\SimpleWeatherApiDemo.csproj|c:\\coderepo\\personalrepo\\simpleweatherapidemo\\simpleweatherapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691AFA57-CBAC-4EDF-AD4F-D1B35D75DE37}|SimpleWeatherApiDemo\\SimpleWeatherApiDemo.csproj|solutionrelative:simpleweatherapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoordinateProvider.cs",
+              "DocumentMoniker": "C:\\CodeRepo\\PersonalRepo\\SimpleWeatherApiDemo\\SimpleWeatherApiDemo\\Weather\\CoordinateProvider.cs",
+              "RelativeDocumentMoniker": "SimpleWeatherApiDemo\\Weather\\CoordinateProvider.cs",
+              "ToolTip": "C:\\CodeRepo\\PersonalRepo\\SimpleWeatherApiDemo\\SimpleWeatherApiDemo\\Weather\\CoordinateProvider.cs",
+              "RelativeToolTip": "SimpleWeatherApiDemo\\Weather\\CoordinateProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:57:32.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherCache.cs",
+              "DocumentMoniker": "C:\\CodeRepo\\PersonalRepo\\SimpleWeatherApiDemo\\SimpleWeatherApiDemo\\Weather\\WeatherCache.cs",
+              "RelativeDocumentMoniker": "SimpleWeatherApiDemo\\Weather\\WeatherCache.cs",
+              "ToolTip": "C:\\CodeRepo\\PersonalRepo\\SimpleWeatherApiDemo\\SimpleWeatherApiDemo\\Weather\\WeatherCache.cs",
+              "RelativeToolTip": "SimpleWeatherApiDemo\\Weather\\WeatherCache.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:42:03.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherDotGovClient.cs",
+              "DocumentMoniker": "C:\\CodeRepo\\PersonalRepo\\SimpleWeatherApiDemo\\SimpleWeatherApiDemo\\ExternalServices\\WeatherDotGovClient.cs",
+              "RelativeDocumentMoniker": "SimpleWeatherApiDemo\\ExternalServices\\WeatherDotGovClient.cs",
+              "ToolTip": "C:\\CodeRepo\\PersonalRepo\\SimpleWeatherApiDemo\\SimpleWeatherApiDemo\\ExternalServices\\WeatherDotGovClient.cs",
+              "RelativeToolTip": "SimpleWeatherApiDemo\\ExternalServices\\WeatherDotGovClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:38:09.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KennettWeatherForecastController.cs",
+              "DocumentMoniker": "C:\\CodeRepo\\PersonalRepo\\SimpleWeatherApiDemo\\SimpleWeatherApiDemo\\Controllers\\KennettWeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SimpleWeatherApiDemo\\Controllers\\KennettWeatherForecastController.cs",
+              "ToolTip": "C:\\CodeRepo\\PersonalRepo\\SimpleWeatherApiDemo\\SimpleWeatherApiDemo\\Controllers\\KennettWeatherForecastController.cs",
+              "RelativeToolTip": "SimpleWeatherApiDemo\\Controllers\\KennettWeatherForecastController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:37:22.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CodeRepo\\PersonalRepo\\SimpleWeatherApiDemo\\SimpleWeatherApiDemo\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleWeatherApiDemo\\Program.cs",
+              "ToolTip": "C:\\CodeRepo\\PersonalRepo\\SimpleWeatherApiDemo\\SimpleWeatherApiDemo\\Program.cs",
+              "RelativeToolTip": "SimpleWeatherApiDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:37:11.204Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
